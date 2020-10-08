@@ -12,6 +12,10 @@ let package = Package(
     targets: [
         .target(
             name: "HGPlaceholders",
-            dependencies: []),
+            dependencies: [],
+            resources: [
+                .process("Classes/Cells/PlaceholderCollectionViewCell.xib"),
+                .process("Classes/Cells/PlaceholderTableViewCell.xib")
+            ]),
     ]
 )
