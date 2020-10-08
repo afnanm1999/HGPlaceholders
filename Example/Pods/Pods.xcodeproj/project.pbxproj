@@ -7,34 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		089370598E9BA3FEB0E82D5E9D6C92B1 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD03E67964DAFFE5E86151AFEADB8D8F /* TableView.swift */; };
-		16A0756DDF8EDB63BC9D681D774E4046 /* NibLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80680092EC646C9F5B66BABFE411B8F /* NibLoadable.swift */; };
-		188B2D39A18542546FF1D117238F1C79 /* PlaceholderStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0197C003CD7180ECA3123696BCB689 /* PlaceholderStyle.swift */; };
-		1EFBAE800B9E6D9F44320A2080137B30 /* PlaceholderTableViewCell.xib in Sources */ = {isa = PBXBuildFile; fileRef = 8873BE641317A91432986B1A3B81ADE4 /* PlaceholderTableViewCell.xib */; };
-		2B46B6F94E8F084000FB951639FAEC00 /* CollectionView+Switcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECF08097F6C15A22D63A6DA74B94451 /* CollectionView+Switcher.swift */; };
-		2D65F8DFA3550CB472EB2A1601DDFF4A /* PlaceholderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B949EB7BB812B7ED9558698943EF83 /* PlaceholderTableViewCell.swift */; };
 		2DCAF4AFAC26D4C70614CACD216F96D4 /* Pods-HGPlaceholders_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B133DB411BBA03BD4A7221253DEC6F4 /* Pods-HGPlaceholders_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		300FA9ACFF2831817EAD2CABADF589F4 /* Pods-HGPlaceholders_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C7560B979D198A0E2DB26869FE43C28 /* Pods-HGPlaceholders_Example-dummy.m */; };
 		37E7F83E7792C6C5F2883215494368C7 /* Pods-HGPlaceholders_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A0B465F8E7BE9737ADDADDF1D44D503 /* Pods-HGPlaceholders_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4D899A18B8B4B44F015E2A9E52002672 /* PlaceholdersSwitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30EDDD951D1C728AB08E5B0DECD4FA38 /* PlaceholdersSwitcher.swift */; };
-		52CD25468E069843CFF033FF9D850A64 /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5887EA6DC5562707884DB1A25A10A850 /* CollectionView.swift */; };
-		63C7AAC47EA1F0784CABEDFE233F5E47 /* PlaceholderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 575CF815AA76CC5CD6C510EAD9E2F990 /* PlaceholderCollectionViewCell.swift */; };
-		6AF0A2F001D149D10C12A81150EAC1C4 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932B7F962DB3B12DFC6C4A587D7A46EA /* Placeholder.swift */; };
-		7348205110780D4DA1D87DB0008C1AF2 /* CellPlaceholding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8963A20BFF33DC5C08F05B9A4FCD4D2D /* CellPlaceholding.swift */; };
-		80949872F5021FC96A24D9AAEF81EF41 /* PlaceholderCollectionViewCell.xib in Sources */ = {isa = PBXBuildFile; fileRef = 98B19DFFA44B91612DA5F8836759F6C2 /* PlaceholderCollectionViewCell.xib */; };
 		A86B7E6004823FA79F291ED903A210A9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		A9998B3D784C949F8D3686ED11EDF29B /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C5ED86B0AECC417CE65AAA9C6BE87F /* ErrorMessage.swift */; };
-		AE7AA020F8DC82DF0917BB0EFA8F9252 /* PlaceholderDataSourceDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F9A6B40A7DA6E16D67A1D733109164 /* PlaceholderDataSourceDelegate.swift */; };
-		B1337B30E663A99F871CAB2FDB4BA29B /* PlaceholdersProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D12B0354429C7163C6449797A55C9E3 /* PlaceholdersProvider.swift */; };
 		B83EE640980B0B5BFC50EFAFA02CCC9C /* Pods-HGPlaceholders_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 08E702D969B109D0BFC487F5405359AC /* Pods-HGPlaceholders_Tests-dummy.m */; };
-		BB09FA3FED63435294BDEE2FF2BDB69B /* PlaceholderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 806610321B5F6D58635C38EFC530C90F /* PlaceholderData.swift */; };
 		BEF9E68B1B4647CEAB16FB81ED72B825 /* HGPlaceholders-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D155A91B2A5C4D5771F78DA69211348 /* HGPlaceholders-dummy.m */; };
-		C018B42F8F080CCC7C688AE8389BEACB /* Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01872785DD854BF6D4E99E9237997072 /* Reusable.swift */; };
 		C615447EBE8CD845F019B012409CF5CA /* HGPlaceholders-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CA0F33373CA01C3903CCCF1A6A80172 /* HGPlaceholders-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CFEB8995D01888D8923FE8B1C0DFDF72 /* TableView+Switcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = C997F6606259F91EB7BA59336D758E6A /* TableView+Switcher.swift */; };
-		D4F134130B0AF34A4B4CB5BB23EA08E5 /* PlaceholdersProvider+Defauls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D7F06B66206E2E28910026D25F587C2 /* PlaceholdersProvider+Defauls.swift */; };
-		E4C61353CD38234F38867D46D6B057F0 /* PlaceholderKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FCE7071CA11A49618C83EE7A466750 /* PlaceholderKey.swift */; };
-		F1C321BA3072C80E3BD06A38D5C24A59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA107506211E11C15B23A13640DA00B6 /* Assets.xcassets */; };
+		CF778D61252EB7A400D71C25 /* PlaceholdersSwitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D49252EB7A400D71C25 /* PlaceholdersSwitcher.swift */; };
+		CF778D62252EB7A400D71C25 /* Reusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D4A252EB7A400D71C25 /* Reusable.swift */; };
+		CF778D63252EB7A400D71C25 /* CellPlaceholding.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D4B252EB7A400D71C25 /* CellPlaceholding.swift */; };
+		CF778D64252EB7A400D71C25 /* NibLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D4C252EB7A400D71C25 /* NibLoadable.swift */; };
+		CF778D65252EB7A400D71C25 /* PlaceholderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D4E252EB7A400D71C25 /* PlaceholderTableViewCell.swift */; };
+		CF778D66252EB7A400D71C25 /* PlaceholderCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF778D4F252EB7A400D71C25 /* PlaceholderCollectionViewCell.xib */; };
+		CF778D67252EB7A400D71C25 /* PlaceholderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D50252EB7A400D71C25 /* PlaceholderCollectionViewCell.swift */; };
+		CF778D68252EB7A400D71C25 /* PlaceholderTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF778D51252EB7A400D71C25 /* PlaceholderTableViewCell.xib */; };
+		CF778D69252EB7A400D71C25 /* CollectionView+Switcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D53252EB7A400D71C25 /* CollectionView+Switcher.swift */; };
+		CF778D6A252EB7A400D71C25 /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D54252EB7A400D71C25 /* CollectionView.swift */; };
+		CF778D6B252EB7A400D71C25 /* TableView+Switcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D55252EB7A400D71C25 /* TableView+Switcher.swift */; };
+		CF778D6C252EB7A400D71C25 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D56252EB7A400D71C25 /* TableView.swift */; };
+		CF778D6D252EB7A400D71C25 /* PlaceholderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D58252EB7A400D71C25 /* PlaceholderData.swift */; };
+		CF778D6E252EB7A400D71C25 /* PlaceholderKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D59252EB7A400D71C25 /* PlaceholderKey.swift */; };
+		CF778D6F252EB7A400D71C25 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D5A252EB7A400D71C25 /* ErrorMessage.swift */; };
+		CF778D70252EB7A400D71C25 /* Placeholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D5B252EB7A400D71C25 /* Placeholder.swift */; };
+		CF778D71252EB7A400D71C25 /* PlaceholderStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D5C252EB7A400D71C25 /* PlaceholderStyle.swift */; };
+		CF778D72252EB7A400D71C25 /* PlaceholdersProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D5E252EB7A400D71C25 /* PlaceholdersProvider.swift */; };
+		CF778D73252EB7A400D71C25 /* PlaceholdersProvider+Defauls.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D5F252EB7A400D71C25 /* PlaceholdersProvider+Defauls.swift */; };
+		CF778D74252EB7A400D71C25 /* PlaceholderDataSourceDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF778D60252EB7A400D71C25 /* PlaceholderDataSourceDelegate.swift */; };
+		CF778D79252EB7B100D71C25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF778D78252EB7B100D71C25 /* Assets.xcassets */; };
 		F24473990386630BD7FDA977F587E01F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		FC08E7D54610CF0AB24D8F29310FF6CF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -50,58 +50,58 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01872785DD854BF6D4E99E9237997072 /* Reusable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Reusable.swift; sourceTree = "<group>"; };
 		08E702D969B109D0BFC487F5405359AC /* Pods-HGPlaceholders_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HGPlaceholders_Tests-dummy.m"; sourceTree = "<group>"; };
 		0BFBEE7840CD05696824A48AD8CF8302 /* HGPlaceholders.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HGPlaceholders.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B949EB7BB812B7ED9558698943EF83 /* PlaceholderTableViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholderTableViewCell.swift; sourceTree = "<group>"; };
 		141D603145EC1AD77A943821F9EE0F60 /* Pods-HGPlaceholders_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HGPlaceholders_Example-resources.sh"; sourceTree = "<group>"; };
 		17A9DD2D05C2D2FDBFD14677851E6497 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1E7F07FB31EF4AD3DFCD8B1A6B3ED8DE /* Pods-HGPlaceholders_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HGPlaceholders_Example-frameworks.sh"; sourceTree = "<group>"; };
 		28F052B951A9E09FC84FB879205F356D /* Pods-HGPlaceholders_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HGPlaceholders_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		30EDDD951D1C728AB08E5B0DECD4FA38 /* PlaceholdersSwitcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholdersSwitcher.swift; sourceTree = "<group>"; };
 		34BFF8D2FB18352A243827CF54050EE8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E7ABE840F0C154B63533FA568E31F4B /* HGPlaceholders.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HGPlaceholders.xcconfig; sourceTree = "<group>"; };
 		4B133DB411BBA03BD4A7221253DEC6F4 /* Pods-HGPlaceholders_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HGPlaceholders_Example-umbrella.h"; sourceTree = "<group>"; };
 		4CA0F33373CA01C3903CCCF1A6A80172 /* HGPlaceholders-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HGPlaceholders-umbrella.h"; sourceTree = "<group>"; };
 		4E8C753CB7A5EAEE2EA2EB1387F9649E /* Pods-HGPlaceholders_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGPlaceholders_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		575CF815AA76CC5CD6C510EAD9E2F990 /* PlaceholderCollectionViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholderCollectionViewCell.swift; sourceTree = "<group>"; };
 		5868B0C37710646499BB5DFA51B5F7D3 /* Pods-HGPlaceholders_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGPlaceholders_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5887EA6DC5562707884DB1A25A10A850 /* CollectionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
 		5EF1E4BB32376219966E243E5767EA83 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		64C5ED86B0AECC417CE65AAA9C6BE87F /* ErrorMessage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6C7560B979D198A0E2DB26869FE43C28 /* Pods-HGPlaceholders_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HGPlaceholders_Example-dummy.m"; sourceTree = "<group>"; };
-		6D7F06B66206E2E28910026D25F587C2 /* PlaceholdersProvider+Defauls.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "PlaceholdersProvider+Defauls.swift"; sourceTree = "<group>"; };
-		6ECF08097F6C15A22D63A6DA74B94451 /* CollectionView+Switcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "CollectionView+Switcher.swift"; sourceTree = "<group>"; };
 		71165C6F3561A013AF2588B430F419E2 /* Pods_HGPlaceholders_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGPlaceholders_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		777D244997CBB63DDEA8F6085F717819 /* Pods-HGPlaceholders_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGPlaceholders_Example.release.xcconfig"; sourceTree = "<group>"; };
 		7A0B465F8E7BE9737ADDADDF1D44D503 /* Pods-HGPlaceholders_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HGPlaceholders_Tests-umbrella.h"; sourceTree = "<group>"; };
 		7D155A91B2A5C4D5771F78DA69211348 /* HGPlaceholders-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HGPlaceholders-dummy.m"; sourceTree = "<group>"; };
 		7E60A9F8D570E26AD9AC36405DA7D554 /* Pods-HGPlaceholders_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HGPlaceholders_Example.modulemap"; sourceTree = "<group>"; };
-		806610321B5F6D58635C38EFC530C90F /* PlaceholderData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholderData.swift; sourceTree = "<group>"; };
-		8873BE641317A91432986B1A3B81ADE4 /* PlaceholderTableViewCell.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = PlaceholderTableViewCell.xib; sourceTree = "<group>"; };
-		8963A20BFF33DC5C08F05B9A4FCD4D2D /* CellPlaceholding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CellPlaceholding.swift; sourceTree = "<group>"; };
-		8D12B0354429C7163C6449797A55C9E3 /* PlaceholdersProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholdersProvider.swift; sourceTree = "<group>"; };
-		8E0197C003CD7180ECA3123696BCB689 /* PlaceholderStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholderStyle.swift; sourceTree = "<group>"; };
-		932B7F962DB3B12DFC6C4A587D7A46EA /* Placeholder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Placeholder.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		98B19DFFA44B91612DA5F8836759F6C2 /* PlaceholderCollectionViewCell.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = PlaceholderCollectionViewCell.xib; sourceTree = "<group>"; };
 		9A9A606704B7EDFD640F6A5563C528F3 /* Pods-HGPlaceholders_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGPlaceholders_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9D6899FE41B11ED0F10585DEBE4233BF /* HGPlaceholders-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HGPlaceholders-prefix.pch"; sourceTree = "<group>"; };
 		9D78DEA63EDDDB0121CF7D2DCC486E8B /* HGPlaceholders.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = HGPlaceholders.modulemap; sourceTree = "<group>"; };
 		A70DF2A1B5D71AACF0D419396A51DCDE /* Pods_HGPlaceholders_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HGPlaceholders_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B2FCE7071CA11A49618C83EE7A466750 /* PlaceholderKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholderKey.swift; sourceTree = "<group>"; };
 		BA8D03318FE07B7968541E1C8E37680C /* Pods-HGPlaceholders_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HGPlaceholders_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		C509E6EBA2EAF25C6462236132E229AC /* Pods-HGPlaceholders_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HGPlaceholders_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		C997F6606259F91EB7BA59336D758E6A /* TableView+Switcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "TableView+Switcher.swift"; sourceTree = "<group>"; };
 		CDCBDBAA55C738916371AEAE202D9803 /* Pods-HGPlaceholders_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HGPlaceholders_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		CF778D49252EB7A400D71C25 /* PlaceholdersSwitcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholdersSwitcher.swift; sourceTree = "<group>"; };
+		CF778D4A252EB7A400D71C25 /* Reusable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reusable.swift; sourceTree = "<group>"; };
+		CF778D4B252EB7A400D71C25 /* CellPlaceholding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellPlaceholding.swift; sourceTree = "<group>"; };
+		CF778D4C252EB7A400D71C25 /* NibLoadable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NibLoadable.swift; sourceTree = "<group>"; };
+		CF778D4E252EB7A400D71C25 /* PlaceholderTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderTableViewCell.swift; sourceTree = "<group>"; };
+		CF778D4F252EB7A400D71C25 /* PlaceholderCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlaceholderCollectionViewCell.xib; sourceTree = "<group>"; };
+		CF778D50252EB7A400D71C25 /* PlaceholderCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderCollectionViewCell.swift; sourceTree = "<group>"; };
+		CF778D51252EB7A400D71C25 /* PlaceholderTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlaceholderTableViewCell.xib; sourceTree = "<group>"; };
+		CF778D53252EB7A400D71C25 /* CollectionView+Switcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CollectionView+Switcher.swift"; sourceTree = "<group>"; };
+		CF778D54252EB7A400D71C25 /* CollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
+		CF778D55252EB7A400D71C25 /* TableView+Switcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TableView+Switcher.swift"; sourceTree = "<group>"; };
+		CF778D56252EB7A400D71C25 /* TableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
+		CF778D58252EB7A400D71C25 /* PlaceholderData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderData.swift; sourceTree = "<group>"; };
+		CF778D59252EB7A400D71C25 /* PlaceholderKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderKey.swift; sourceTree = "<group>"; };
+		CF778D5A252EB7A400D71C25 /* ErrorMessage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
+		CF778D5B252EB7A400D71C25 /* Placeholder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Placeholder.swift; sourceTree = "<group>"; };
+		CF778D5C252EB7A400D71C25 /* PlaceholderStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderStyle.swift; sourceTree = "<group>"; };
+		CF778D5E252EB7A400D71C25 /* PlaceholdersProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholdersProvider.swift; sourceTree = "<group>"; };
+		CF778D5F252EB7A400D71C25 /* PlaceholdersProvider+Defauls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlaceholdersProvider+Defauls.swift"; sourceTree = "<group>"; };
+		CF778D60252EB7A400D71C25 /* PlaceholderDataSourceDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderDataSourceDelegate.swift; sourceTree = "<group>"; };
+		CF778D78252EB7B100D71C25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Sources/HGPlaceholders/Assets/Assets.xcassets; sourceTree = "<group>"; };
 		D4EA50B573860FF03B63E0AC06BCF83C /* Pods-HGPlaceholders_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HGPlaceholders_Tests-resources.sh"; sourceTree = "<group>"; };
-		DA107506211E11C15B23A13640DA00B6 /* Assets.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = HGPlaceholders/Assets/Assets.xcassets; sourceTree = "<group>"; };
 		DCF83BA3D7D03C2013C3D0A767CA7C07 /* Pods-HGPlaceholders_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HGPlaceholders_Tests.modulemap"; sourceTree = "<group>"; };
-		E2F9A6B40A7DA6E16D67A1D733109164 /* PlaceholderDataSourceDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PlaceholderDataSourceDelegate.swift; sourceTree = "<group>"; };
-		E80680092EC646C9F5B66BABFE411B8F /* NibLoadable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NibLoadable.swift; sourceTree = "<group>"; };
 		EA6AE825A87406B4C82F492DDC8FE9B2 /* Pods-HGPlaceholders_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HGPlaceholders_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		FD03E67964DAFFE5E86151AFEADB8D8F /* TableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,29 +132,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		052682188802A9864B2078154F877CD8 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				5887EA6DC5562707884DB1A25A10A850 /* CollectionView.swift */,
-				6ECF08097F6C15A22D63A6DA74B94451 /* CollectionView+Switcher.swift */,
-				FD03E67964DAFFE5E86151AFEADB8D8F /* TableView.swift */,
-				C997F6606259F91EB7BA59336D758E6A /* TableView+Switcher.swift */,
-			);
-			name = Views;
-			path = HGPlaceholders/Classes/Views;
-			sourceTree = "<group>";
-		};
-		1B452C58E93DA4105F2E9F4AC45D2AB6 /* PlaceholdersProvider */ = {
-			isa = PBXGroup;
-			children = (
-				E2F9A6B40A7DA6E16D67A1D733109164 /* PlaceholderDataSourceDelegate.swift */,
-				8D12B0354429C7163C6449797A55C9E3 /* PlaceholdersProvider.swift */,
-				6D7F06B66206E2E28910026D25F587C2 /* PlaceholdersProvider+Defauls.swift */,
-			);
-			name = PlaceholdersProvider;
-			path = HGPlaceholders/Classes/PlaceholdersProvider;
-			sourceTree = "<group>";
-		};
 		1FDC6005984E76E4F4197769EF75E950 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -168,13 +145,13 @@
 		24F7E60E892033BA50E627A25B88B561 /* HGPlaceholders */ = {
 			isa = PBXGroup;
 			children = (
-				CDCE17AAA13DCBFF4281E802A02AF8A8 /* Cells */,
-				6717C5496CDFFE3CD870B4E47211171D /* Placeholder */,
-				1B452C58E93DA4105F2E9F4AC45D2AB6 /* PlaceholdersProvider */,
-				6936909F46FC232461F146E16C6C314F /* Protocols */,
+				CF778D4D252EB7A400D71C25 /* Cells */,
+				CF778D57252EB7A400D71C25 /* Placeholder */,
+				CF778D5D252EB7A400D71C25 /* PlaceholdersProvider */,
+				CF778D48252EB7A400D71C25 /* Protocols */,
+				CF778D52252EB7A400D71C25 /* Views */,
 				6F5D457843565FA944F532F12A3F4665 /* Resources */,
 				77C98EBCF1D6308646806CC513C5E980 /* Support Files */,
-				052682188802A9864B2078154F877CD8 /* Views */,
 			);
 			name = HGPlaceholders;
 			path = ../..;
@@ -206,35 +183,10 @@
 			path = "Target Support Files/Pods-HGPlaceholders_Tests";
 			sourceTree = "<group>";
 		};
-		6717C5496CDFFE3CD870B4E47211171D /* Placeholder */ = {
-			isa = PBXGroup;
-			children = (
-				64C5ED86B0AECC417CE65AAA9C6BE87F /* ErrorMessage.swift */,
-				932B7F962DB3B12DFC6C4A587D7A46EA /* Placeholder.swift */,
-				806610321B5F6D58635C38EFC530C90F /* PlaceholderData.swift */,
-				B2FCE7071CA11A49618C83EE7A466750 /* PlaceholderKey.swift */,
-				8E0197C003CD7180ECA3123696BCB689 /* PlaceholderStyle.swift */,
-			);
-			name = Placeholder;
-			path = HGPlaceholders/Classes/Placeholder;
-			sourceTree = "<group>";
-		};
-		6936909F46FC232461F146E16C6C314F /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				8963A20BFF33DC5C08F05B9A4FCD4D2D /* CellPlaceholding.swift */,
-				E80680092EC646C9F5B66BABFE411B8F /* NibLoadable.swift */,
-				30EDDD951D1C728AB08E5B0DECD4FA38 /* PlaceholdersSwitcher.swift */,
-				01872785DD854BF6D4E99E9237997072 /* Reusable.swift */,
-			);
-			name = Protocols;
-			path = HGPlaceholders/Classes/Protocols;
-			sourceTree = "<group>";
-		};
 		6F5D457843565FA944F532F12A3F4665 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				DA107506211E11C15B23A13640DA00B6 /* Assets.xcassets */,
+				CF778D78252EB7B100D71C25 /* Assets.xcassets */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -299,16 +251,64 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CDCE17AAA13DCBFF4281E802A02AF8A8 /* Cells */ = {
+		CF778D48252EB7A400D71C25 /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				575CF815AA76CC5CD6C510EAD9E2F990 /* PlaceholderCollectionViewCell.swift */,
-				98B19DFFA44B91612DA5F8836759F6C2 /* PlaceholderCollectionViewCell.xib */,
-				13B949EB7BB812B7ED9558698943EF83 /* PlaceholderTableViewCell.swift */,
-				8873BE641317A91432986B1A3B81ADE4 /* PlaceholderTableViewCell.xib */,
+				CF778D49252EB7A400D71C25 /* PlaceholdersSwitcher.swift */,
+				CF778D4A252EB7A400D71C25 /* Reusable.swift */,
+				CF778D4B252EB7A400D71C25 /* CellPlaceholding.swift */,
+				CF778D4C252EB7A400D71C25 /* NibLoadable.swift */,
+			);
+			name = Protocols;
+			path = Sources/HGPlaceholders/Classes/Protocols;
+			sourceTree = "<group>";
+		};
+		CF778D4D252EB7A400D71C25 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				CF778D4E252EB7A400D71C25 /* PlaceholderTableViewCell.swift */,
+				CF778D4F252EB7A400D71C25 /* PlaceholderCollectionViewCell.xib */,
+				CF778D50252EB7A400D71C25 /* PlaceholderCollectionViewCell.swift */,
+				CF778D51252EB7A400D71C25 /* PlaceholderTableViewCell.xib */,
 			);
 			name = Cells;
-			path = HGPlaceholders/Classes/Cells;
+			path = Sources/HGPlaceholders/Classes/Cells;
+			sourceTree = "<group>";
+		};
+		CF778D52252EB7A400D71C25 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CF778D53252EB7A400D71C25 /* CollectionView+Switcher.swift */,
+				CF778D54252EB7A400D71C25 /* CollectionView.swift */,
+				CF778D55252EB7A400D71C25 /* TableView+Switcher.swift */,
+				CF778D56252EB7A400D71C25 /* TableView.swift */,
+			);
+			name = Views;
+			path = Sources/HGPlaceholders/Classes/Views;
+			sourceTree = "<group>";
+		};
+		CF778D57252EB7A400D71C25 /* Placeholder */ = {
+			isa = PBXGroup;
+			children = (
+				CF778D58252EB7A400D71C25 /* PlaceholderData.swift */,
+				CF778D59252EB7A400D71C25 /* PlaceholderKey.swift */,
+				CF778D5A252EB7A400D71C25 /* ErrorMessage.swift */,
+				CF778D5B252EB7A400D71C25 /* Placeholder.swift */,
+				CF778D5C252EB7A400D71C25 /* PlaceholderStyle.swift */,
+			);
+			name = Placeholder;
+			path = Sources/HGPlaceholders/Classes/Placeholder;
+			sourceTree = "<group>";
+		};
+		CF778D5D252EB7A400D71C25 /* PlaceholdersProvider */ = {
+			isa = PBXGroup;
+			children = (
+				CF778D5E252EB7A400D71C25 /* PlaceholdersProvider.swift */,
+				CF778D5F252EB7A400D71C25 /* PlaceholdersProvider+Defauls.swift */,
+				CF778D60252EB7A400D71C25 /* PlaceholderDataSourceDelegate.swift */,
+			);
+			name = PlaceholdersProvider;
+			path = Sources/HGPlaceholders/Classes/PlaceholdersProvider;
 			sourceTree = "<group>";
 		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
@@ -421,6 +421,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -440,7 +441,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1C321BA3072C80E3BD06A38D5C24A59 /* Assets.xcassets in Resources */,
+				CF778D68252EB7A400D71C25 /* PlaceholderTableViewCell.xib in Resources */,
+				CF778D79252EB7B100D71C25 /* Assets.xcassets in Resources */,
+				CF778D66252EB7A400D71C25 /* PlaceholderCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -459,27 +462,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7348205110780D4DA1D87DB0008C1AF2 /* CellPlaceholding.swift in Sources */,
-				2B46B6F94E8F084000FB951639FAEC00 /* CollectionView+Switcher.swift in Sources */,
-				52CD25468E069843CFF033FF9D850A64 /* CollectionView.swift in Sources */,
-				A9998B3D784C949F8D3686ED11EDF29B /* ErrorMessage.swift in Sources */,
+				CF778D6A252EB7A400D71C25 /* CollectionView.swift in Sources */,
+				CF778D62252EB7A400D71C25 /* Reusable.swift in Sources */,
+				CF778D74252EB7A400D71C25 /* PlaceholderDataSourceDelegate.swift in Sources */,
+				CF778D67252EB7A400D71C25 /* PlaceholderCollectionViewCell.swift in Sources */,
+				CF778D61252EB7A400D71C25 /* PlaceholdersSwitcher.swift in Sources */,
+				CF778D6B252EB7A400D71C25 /* TableView+Switcher.swift in Sources */,
+				CF778D73252EB7A400D71C25 /* PlaceholdersProvider+Defauls.swift in Sources */,
+				CF778D71252EB7A400D71C25 /* PlaceholderStyle.swift in Sources */,
+				CF778D69252EB7A400D71C25 /* CollectionView+Switcher.swift in Sources */,
 				BEF9E68B1B4647CEAB16FB81ED72B825 /* HGPlaceholders-dummy.m in Sources */,
-				16A0756DDF8EDB63BC9D681D774E4046 /* NibLoadable.swift in Sources */,
-				6AF0A2F001D149D10C12A81150EAC1C4 /* Placeholder.swift in Sources */,
-				63C7AAC47EA1F0784CABEDFE233F5E47 /* PlaceholderCollectionViewCell.swift in Sources */,
-				80949872F5021FC96A24D9AAEF81EF41 /* PlaceholderCollectionViewCell.xib in Sources */,
-				BB09FA3FED63435294BDEE2FF2BDB69B /* PlaceholderData.swift in Sources */,
-				AE7AA020F8DC82DF0917BB0EFA8F9252 /* PlaceholderDataSourceDelegate.swift in Sources */,
-				E4C61353CD38234F38867D46D6B057F0 /* PlaceholderKey.swift in Sources */,
-				D4F134130B0AF34A4B4CB5BB23EA08E5 /* PlaceholdersProvider+Defauls.swift in Sources */,
-				B1337B30E663A99F871CAB2FDB4BA29B /* PlaceholdersProvider.swift in Sources */,
-				4D899A18B8B4B44F015E2A9E52002672 /* PlaceholdersSwitcher.swift in Sources */,
-				188B2D39A18542546FF1D117238F1C79 /* PlaceholderStyle.swift in Sources */,
-				2D65F8DFA3550CB472EB2A1601DDFF4A /* PlaceholderTableViewCell.swift in Sources */,
-				1EFBAE800B9E6D9F44320A2080137B30 /* PlaceholderTableViewCell.xib in Sources */,
-				C018B42F8F080CCC7C688AE8389BEACB /* Reusable.swift in Sources */,
-				CFEB8995D01888D8923FE8B1C0DFDF72 /* TableView+Switcher.swift in Sources */,
-				089370598E9BA3FEB0E82D5E9D6C92B1 /* TableView.swift in Sources */,
+				CF778D65252EB7A400D71C25 /* PlaceholderTableViewCell.swift in Sources */,
+				CF778D6F252EB7A400D71C25 /* ErrorMessage.swift in Sources */,
+				CF778D64252EB7A400D71C25 /* NibLoadable.swift in Sources */,
+				CF778D6D252EB7A400D71C25 /* PlaceholderData.swift in Sources */,
+				CF778D70252EB7A400D71C25 /* Placeholder.swift in Sources */,
+				CF778D6C252EB7A400D71C25 /* TableView.swift in Sources */,
+				CF778D6E252EB7A400D71C25 /* PlaceholderKey.swift in Sources */,
+				CF778D63252EB7A400D71C25 /* CellPlaceholding.swift in Sources */,
+				CF778D72252EB7A400D71C25 /* PlaceholdersProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -19,6 +19,6 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "HGPlaceholders/Classes/**/*",
-  "resources": "HGPlaceholders/Assets/*.*"
+  "source_files": "Sources/HGPlaceholders/Classes/**/*",
+  "resources": "Sources/HGPlaceholders/Assets/*.*"
 }
