@@ -14,8 +14,8 @@ let package = Package(
             name: "HGPlaceholders",
             dependencies: [],
             resources: [
-                .process("Classes/Cells/PlaceholderCollectionViewCell.xib"),
-                .process("Classes/Cells/PlaceholderTableViewCell.xib")
+                .copy("PlaceholderCollectionViewCell.xib"),
+                .copy("PlaceholderTableViewCell.xib")
             ]),
     ]
 )

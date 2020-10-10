@@ -104,7 +104,7 @@ extension PlaceholdersProvider {
 extension PlaceholdersProvider {
     
     static func image(named name: String) -> UIImage? {
-        let image = UIImage(named: name) ?? UIImage(named: name, in: Bundle(for: self), compatibleWith: nil)
+        let image = UIImage(named: name) ?? UIImage(named: name, in: Bundle.module, compatibleWith: nil)
         
         return image
     }
